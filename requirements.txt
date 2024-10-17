@@ -1,1 +1,5 @@
-pip install -r
+pysocks
+httpx
+requests
+colorama
+speedtest-cli
