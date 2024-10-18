@@ -1,5 +1,3 @@
-pysocks
-httpx
-requests
-colorama
-speedtest-cli
+-e .
+pytest
+flake8
